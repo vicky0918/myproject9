@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a403c5f6-e5cd-45a5-b140-e29ee0196e8c" name="变更" comment="Merged">
-      <change afterPath="$PROJECT_DIR$/src/main/java/PersonKotlin.kt" afterDir="false" />
+    <list default="true" id="a403c5f6-e5cd-45a5-b140-e29ee0196e8c" name="变更" comment="Hello with Kotlin">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vicky/score/Student.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/vicky/Hello.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/vicky/Hello.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/vicky/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/vicky/Person.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,12 +41,12 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "settings.editor.selected.configurable": "preferences.language.Kotlin"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.language.Kotlin&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Kotlin.PersonKotlinKt">
+}</component>
+  <component name="RunManager" selected="Kotlin.StudentKt">
     <configuration name="Hello" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.vicky.Hello" />
       <module name="myproject9.main" />
@@ -70,8 +67,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="StudentKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.vicky.com.vicky.score.StudentKt" />
+      <module name="myproject9.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.StudentKt" />
         <item itemvalue="Kotlin.PersonKotlinKt" />
         <item itemvalue="Application.Hello" />
       </list>
@@ -107,7 +112,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654847259269</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Hello with Kotlin">
+      <created>1654849041587</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1654849041587</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -125,7 +137,8 @@
     <MESSAGE value="initial commit" />
     <MESSAGE value="Hello world with class Person" />
     <MESSAGE value="Merged" />
-    <option name="LAST_COMMIT_MESSAGE" value="Merged" />
+    <MESSAGE value="Hello with Kotlin" />
+    <option name="LAST_COMMIT_MESSAGE" value="Hello with Kotlin" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
