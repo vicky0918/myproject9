@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a403c5f6-e5cd-45a5-b140-e29ee0196e8c" name="变更" comment="Hello with Kotlin">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vicky/score/Student.kt" afterDir="false" />
+    <list default="true" id="a403c5f6-e5cd-45a5-b140-e29ee0196e8c" name="变更" comment="Kotlin Student">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/vicky/score/Student.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/vicky/score/Student.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -119,7 +119,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654849041587</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Kotlin Student">
+      <created>1655449603826</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1655449603826</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -138,7 +145,8 @@
     <MESSAGE value="Hello world with class Person" />
     <MESSAGE value="Merged" />
     <MESSAGE value="Hello with Kotlin" />
-    <option name="LAST_COMMIT_MESSAGE" value="Hello with Kotlin" />
+    <MESSAGE value="Kotlin Student" />
+    <option name="LAST_COMMIT_MESSAGE" value="Kotlin Student" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
